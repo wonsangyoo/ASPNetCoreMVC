@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/MovieStore/MovieStore/bin/Debug/netcoreapp3.1
+/MovieStore/MovieStore/obj
